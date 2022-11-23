@@ -1,4 +1,4 @@
-package com.ebsolutions.controller;
+package com.ebsolutions.spring_cdc.producer.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
